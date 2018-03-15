@@ -1,21 +1,21 @@
 {
   "name": "mongo-scraper",
   "version": "1.0.0",
-  "description": "Homework 14 for the Northwestern Coding Boot Camp.",
+  "description": "Mongo Scraper HW.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a-ashbeck/mongo-scraper.git"
+    "url": "git+https://github.com/CruniacMaynard/mongo-scraper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/a-ashbeck/mongo-scraper/issues"
+    "url": "https://github.com/CruniacMaynard/mongo-scraper/issues"
   },
-  "homepage": "https://github.com/a-ashbeck/mongo-scraper#readme",
+  "homepage": "https://github.com/CruniacMaynard/mongo-scraper#readme",
   "dependencies": {
     "bluebird": "^3.4.7",
     "body-parser": "^1.16.1",
